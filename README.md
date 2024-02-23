@@ -26,7 +26,7 @@ Interests
 ![alt text](img/logo.png)
 
 ## ⚡️ A Few Quick Facts
-* 🔭 I’m currently working as a Researcher at [Fincon Reply ► Unternehmensberatung](https://www.fincon.eu/)
+* 🔭 I’m currently working as a Business Unit Head and Architect at [Fincon Reply ► Unternehmensberatung](https://www.fincon.eu/)
 * 🌱 I’m currently learning a lot 👾
 * 💬 Ask me if your're searching for a dev job in Hamburg / Germany
 
